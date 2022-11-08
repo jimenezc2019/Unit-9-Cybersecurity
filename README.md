@@ -39,7 +39,7 @@ Vulnerability #1: User Enumeration
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="http://g.recordit.co/egcyJGqgwv.gif">
 
 
 Vulnerability #2: Cross Site Scripting
