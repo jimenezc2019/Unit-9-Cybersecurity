@@ -25,9 +25,24 @@ Description:
 <img src="http://g.recordit.co/edPaik41qW.gif">
 
 
+Vulnerability #2: Session Hijacking
+
+Description:
+
+<img src="http://g.recordit.co/HvgKjl34hh.gif">
+
+
+
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: User Enumeration
+
+Description:
+
+<img src="green-vuln1.gif">
+
+
+Vulnerability #2: Cross Site Scripting
 
 Description:
 
@@ -36,10 +51,12 @@ Description:
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference
 
 Description:
 
 <img src="red-vuln1.gif">
+
+
 
 
